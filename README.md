@@ -17,7 +17,7 @@ This web app will allow you to use an unlimited amount of twitter accounts to
 
 This is a great app to market your product, music and drive traffic to your website + more!
 Trend with hashtags or dominate the popular hashtags or search results + images with your custom keywords.
-Create custom tweets for multiple twitter acounts. Get popular on twitter!
+Create custom tweets for multiple twitter acounts, etc. Get popular on twitter!
 
 Please do not abuse this app or try selling it. Lets keep it open source, free and modifications to this code to make the app better is much welcomed!
 
