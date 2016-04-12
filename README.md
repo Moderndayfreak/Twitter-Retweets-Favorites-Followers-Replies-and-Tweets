@@ -19,6 +19,6 @@ This is a great app to market your product, music and drive traffic to your webs
 Trend with hashtags or dominate the popular hashtags or search results + images with your custom keywords.
 Create custom tweets for multiple twitter acounts. Get popular on twitter!
 
-Please do not abuse this app or try selling it. Lets keep it open source and modifications to this code to make the app better is much welcomed!
+Please do not abuse this app or try selling it. Lets keep it open source, free and modifications to this code to make the app better is much welcomed!
 
 You will need to update and modify the code to the newest twitter api and then you should be good to go.
