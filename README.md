@@ -2,9 +2,10 @@ Twitter Marketing PHP App
 
 Current Monthly Useres on Twitter: 305 million and growing
 
-You will need to update and modify the code to the newest twitter api and then you should be good to go.
+
 
 This web app will allow you to use an unlimited amount of twitter accounts to 
+
 1. Tweet (multiple accounts all at the same time) 
 2. Retweet (multiple accounts all at the same time) 
 3. Favorite (multiple accounts all at the same time) 
