@@ -1,4 +1,4 @@
-Twitter Marketing App
+Twitter Marketing PHP App
 
 You will need to update and modify the code to the newest twitter api and then you should be good to go.
 
